@@ -4,7 +4,7 @@
 
 
 
-> ##Radix_Sort Helper Method: :wink:
+> ## Radix_Sort Helper Method: :wink:
 function getDigit(num, i) {
   return Math.floor(Math.abs(num) / Math.pow(10, i)) % 10;
 }
